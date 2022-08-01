@@ -1,0 +1,3 @@
+#!bin/sh
+javac src/com/erictejada/code/*.java
+java -cp ./src com.erictejada.code.MainDriver
